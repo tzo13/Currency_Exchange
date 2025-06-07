@@ -44,6 +44,10 @@ It sends a GET request to this endpoint:
 https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=XXX&to_currency=YYY&apikey=YOUR_KEY
 ```
 
+![Screenshot (453)](https://github.com/user-attachments/assets/66c23b97-7142-4957-ae2f-804eb2c9736d)
+
+
+
 Then parses the JSON response to get the current exchange rate and multiply it by your entered amount.
 
 
