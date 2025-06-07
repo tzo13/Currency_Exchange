@@ -1,25 +1,3 @@
-# Currency_Exchange
-💱 Currency Exchange App (Tkinter + AlphaVantage)
-This mini desktop app lets you convert currencies in real-time using the AlphaVantage API. It’s simple, sleek, and uses themed widgets so your eyes don’t bleed. You're welcome.
-
-🧾 What It Does
-
--Converts currency values between EUR, USD, and GBP
-
--Uses real-time exchange rates from AlphaVantage
-
--Built with Tkinter, ttkthemes, and ttk 
-
-🧪 Tech Stack
-
--Python
-
--Tkinter + ttk for GUI
-
--ttkthemes (for the sweet Equilux dark mode)
-
--requests for HTTP requests to the AlphaVantage API
-
 # 💱 Currency Exchange App (Tkinter + AlphaVantage)
 
 This mini desktop app lets you convert currencies in real-time using the AlphaVantage API. It’s simple, sleek, and uses themed widgets so your eyes don’t bleed. 
@@ -39,9 +17,8 @@ This mini desktop app lets you convert currencies in real-time using the AlphaVa
 
 ## 📦 Requirements
 
-```bash
-pip install requests ttkthemes
-```
+*`You'll need to install two libraries:`
+*`requests and ttkthemes`
 
 > You also need an [AlphaVantage API key](https://www.alphavantage.co/support/#api-key). One-liner signup, no soul-selling required.
 
