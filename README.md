@@ -3,17 +3,19 @@
 This mini desktop app lets you convert currencies in real-time using the AlphaVantage API. It’s simple, sleek, and uses themed widgets so your eyes don’t bleed. You're welcome.
 
 🧾 What It Does
-Converts currency values between EUR, USD, and GBP
 
-Uses real-time exchange rates from AlphaVantage
+-Converts currency values between EUR, USD, and GBP
 
-Built with Tkinter, ttkthemes, and ttk (for the fancy vibes)
+-Uses real-time exchange rates from AlphaVantage
+
+-Built with Tkinter, ttkthemes, and ttk 
 
 🧪 Tech Stack
-Python
 
-Tkinter + ttk for GUI
+-Python
 
-ttkthemes (for the sweet Equilux dark mode)
+-Tkinter + ttk for GUI
 
-requests for HTTP requests to the AlphaVantage API
+-ttkthemes (for the sweet Equilux dark mode)
+
+-requests for HTTP requests to the AlphaVantage API
