@@ -20,7 +20,7 @@ This mini desktop app lets you convert currencies in real-time using the AlphaVa
 You'll need to install two libraries:
 requests and ttkthemes
 
-> You also need an [AlphaVantage API key](https://www.alphavantage.co/support/#api-key). One-liner signup, no soul-selling required.
+You also need an [AlphaVantage API key](https://www.alphavantage.co/support/#api-key). One-liner signup, no soul-selling required.
 
 ## 🚀 How to Run
 
