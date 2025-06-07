@@ -17,8 +17,8 @@ This mini desktop app lets you convert currencies in real-time using the AlphaVa
 
 ## 📦 Requirements
 
-*`You'll need to install two libraries:`
-*`requests and ttkthemes`
+You'll need to install two libraries:
+requests and ttkthemes
 
 > You also need an [AlphaVantage API key](https://www.alphavantage.co/support/#api-key). One-liner signup, no soul-selling required.
 
@@ -46,21 +46,4 @@ https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=
 
 Then parses the JSON response to get the current exchange rate and multiply it by your entered amount.
 
-## 🛑 Note
-
-* API key is currently hardcoded (👀 yeah... maybe don’t do that in production).
-* Only supports EUR, USD, GBP. Want more? You know where the code lives.
-
-## 👩‍💻 Author
-
-Built by the budget globetrotter, Tzo 🧳💸
-Because "mental math" is a scam and we know it.
-
----
-
-*Now go convert like a boss. Or at least like someone who knows what 100 USD in EUR actually is.*
-
----
-
-Need me to turn this into an in-app instructions window too? I’m just one sarcastic comment away.
 
